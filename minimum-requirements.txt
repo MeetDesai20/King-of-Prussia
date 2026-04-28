@@ -1,0 +1,157 @@
+🧠 Big Picture Architecture
+
+👉 You’re building:
+
+1 main app (single-page, scroll/interactive)
+Multiple sections (like slides but non-linear)
+Optional deep-dive modules (mini pages/components)
+📄 CORE PAGES (Minimum)
+
+You only need 1 main route/page:
+
+✅ / → Main Interactive Deck
+
+Everything lives here (scroll-based or section-based navigation)
+
+🔥 Inside this page → Sections (MANDATORY)
+
+These are your “slides” (but interactive):
+
+1. 🎬 Intro / Hero (VERY IMPORTANT)
+Fullscreen video
+Immediate impact (first 5–10 sec)
+CTA: Explore / Enter
+
+👉 You already started this (Intro.jsx) ✅
+
+2. 📍 Why This Property
+Location (map or visuals)
+Footfall / demographics
+Scale (numbers)
+
+👉 Components:
+
+Stats cards
+Animated counters
+Map / visuals
+3. 🏬 Retail Section
+Brands / tenants
+Growth / opportunity
+
+👉 Components:
+
+Logo grid
+Horizontal scroll showcase
+4. 💎 Luxury Section (if applicable)
+Premium positioning
+High-end visuals
+
+👉 Components:
+
+Image + text split
+Cinematic transitions
+5. 🍽 Dining & Lifestyle
+Restaurants
+Experience-driven
+
+👉 Components:
+
+Cards / carousel
+6. 🎢 Attractions & Entertainment (KEY DIFFERENTIATOR)
+Theme parks, cinema, etc.
+
+👉 Components:
+
+Video sections
+Feature highlights
+7. 🎤 Events & Platform (VERY IMPORTANT)
+Concerts, brand activations
+Position as “global platform”
+
+👉 Components:
+
+Timeline / highlights
+Event gallery
+8. 🚀 Final CTA Section
+Leasing
+Sponsorship
+Booking
+
+👉 Components:
+
+Strong CTA buttons
+Contact/lead form (optional)
+🧩 COMPONENT BREAKDOWN
+🔁 Reusable Components (VERY IMPORTANT for architecture)
+
+You should build these:
+
+VideoSection.jsx → reusable video blocks
+SectionWrapper.jsx → layout wrapper
+HeadingBlock.jsx → titles + subtitles
+StatsGrid.jsx → numbers + metrics
+Card.jsx → reusable card UI
+Carousel.jsx → for brands/events
+CTAButton.jsx
+🎬 Special Components
+ScrollTriggerAnimation.jsx (Framer Motion)
+LazyVideo.jsx (performance)
+FullscreenSection.jsx
+🧱 ADVANCED (Phase 2 – makes you stand out)
+
+These are optional but HIGH IMPACT:
+
+📦 Modules (Expandable Sections)
+
+You can add routes like:
+
+/events
+Deep dive into events
+Booking CTA
+/sponsorship
+Packages
+Audience data
+/leasing
+Retail categories
+Inquiry flow
+
+👉 Or keep them as modal / expandable panels inside main page (better UX)
+
+🗂️ FINAL STRUCTURE
+src/
+ ├── components/
+ │    ├── Intro.jsx
+ │    ├── VideoSection.jsx
+ │    ├── StatsGrid.jsx
+ │    ├── Carousel.jsx
+ │    ├── CTAButton.jsx
+ │
+ ├── sections/
+ │    ├── HeroSection.jsx
+ │    ├── WhySection.jsx
+ │    ├── RetailSection.jsx
+ │    ├── LuxurySection.jsx
+ │    ├── DiningSection.jsx
+ │    ├── EntertainmentSection.jsx
+ │    ├── EventsSection.jsx
+ │    ├── CTASection.jsx
+ │
+ ├── pages/
+ │    ├── Home.jsx
+ │
+ ├── App.js
+
+⚡ HOW MANY THINGS YOU NEED
+Minimum (to pass)
+✅ 1 page
+✅ 7–8 sections
+✅ 5–6 reusable components
+Strong submission
+✅ Smooth animations (Framer Motion)
+✅ Video-heavy UI
+✅ Lazy loading
+✅ Modular architecture
+Standout (🔥)
+✅ Expandable modules (events/sponsorship)
+✅ AI-generated visuals
+✅ Premium UI (Apple-level feel)
