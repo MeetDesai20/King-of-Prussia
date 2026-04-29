@@ -1,9 +1,11 @@
 import React, { useEffect, useRef } from "react";
 import { motion } from "framer-motion";
 import introVideo from '../assets/videos/kop-homepage-hero.m4v'
+import { useNavigate } from "react-router-dom";
 
 export default function Intro() {
     const videoRef = useRef(null);
+    const navigate = useNavigate()
 
     useEffect(() => {
         if (videoRef.current) {
@@ -41,6 +43,7 @@ export default function Intro() {
                     whileHover={{ scale: 1.05 }}
                     whileTap={{ scale: 0.95 }}
                     className="rounded-full bg-white px-8 py-4 text-black font-semibold shadow-lg"
+                    onClick={()=>navigate('/home')}
                 >
                     Explore Now
                 </motion.button>
