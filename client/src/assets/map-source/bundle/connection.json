@@ -1,0 +1,591 @@
+[
+  {
+    "externalId": "CON-8G2XIVIF",
+    "id": "c_5723c0513cc20c4247000014",
+    "nodes": [
+      "n_5710f3745349733cb3000003",
+      "n_572231ac3cc20c619f000015"
+    ],
+    "type": "stairs",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Stairs 1 "
+    }
+  },
+  {
+    "externalId": "CON-QXBQ86V3",
+    "id": "c_5723c0683cc20c4247000015",
+    "nodes": [
+      "n_576845fccc902b361700000d",
+      "n_576855d4cc902b36170000e6"
+    ],
+    "type": "escalator",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Escalator 1"
+    }
+  },
+  {
+    "externalId": "CON-EUPRNO4E",
+    "id": "c_5723c1353cc20c424700001a",
+    "nodes": [
+      "n_5723c1c93cc20c424700001d",
+      "n_57695164cc902b654f000012"
+    ],
+    "type": "elevator",
+    "accessible": true,
+    "flags": [
+      1
+    ],
+    "details": {
+      "name": "Elevator 1"
+    }
+  },
+  {
+    "externalId": "CON-WKNDAN7D",
+    "id": "c_5723c1523cc20c424700001b",
+    "nodes": [
+      "n_576ad7bbcc902b059a0000b2",
+      "n_576855edcc902b36170000e8"
+    ],
+    "type": "stairs",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Stairs 2"
+    }
+  },
+  {
+    "externalId": "CON-A8LWQVAC",
+    "id": "c_5723c16e3cc20c424700001c",
+    "nodes": [
+      "n_5723bb4a3cc20c4247000001",
+      "n_5723c22c3cc20c4247000020"
+    ],
+    "type": "escalator",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Escalator 2"
+    }
+  },
+  {
+    "externalId": "CON-3ZVZ7DFR",
+    "id": "c_5723c2af3cc20c4247000021",
+    "nodes": [
+      "n_572373ca3cc20c5b0400002b",
+      "n_5723bb6d3cc20c4247000005"
+    ],
+    "type": "escalator",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Escalator 3"
+    }
+  },
+  {
+    "externalId": "CON-KZCEO7UC",
+    "id": "c_5723c2c03cc20c4247000022",
+    "nodes": [
+      "n_5723747c3cc20c5b0400005e",
+      "n_5723bb703cc20c4247000006"
+    ],
+    "type": "escalator",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Escalator 4"
+    }
+  },
+  {
+    "externalId": "CON-4L2SYA9J",
+    "id": "c_5723c2f03cc20c4247000023",
+    "nodes": [
+      "n_5723a4ef3cc20c5b04000172",
+      "n_5723bceb3cc20c4247000012"
+    ],
+    "type": "stairs",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Stairs 3"
+    }
+  },
+  {
+    "externalId": "CON-D1TKRNJG",
+    "id": "c_5723c30c3cc20c4247000024",
+    "nodes": [
+      "n_5723c3d83cc20c4247000027",
+      "n_576aaf75cc902b059a00008a"
+    ],
+    "type": "escalator",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Escalator 5"
+    }
+  },
+  {
+    "externalId": "CON-NRL4UMJP",
+    "id": "c_576ad860cc902b059a0000b3",
+    "nodes": [
+      "n_57684701cc902b3617000015",
+      "n_576ad885cc902b059a0000b4"
+    ],
+    "type": "escalator",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Escalator 6"
+    }
+  },
+  {
+    "externalId": "CON-HW8OJGOU",
+    "id": "c_576ada1acc902b059a0000b5",
+    "nodes": [
+      "n_57685695cc902b36170000ef",
+      "n_5768484acc902b3617000058"
+    ],
+    "type": "escalator",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Escalator 7"
+    }
+  },
+  {
+    "externalId": "CON-8U56U6TM",
+    "id": "c_576ada63cc902b059a0000b6",
+    "nodes": [
+      "n_57684b20cc902b3617000065",
+      "n_57a4cd900b10f93fb3000002"
+    ],
+    "type": "escalator",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Escalator 8"
+    }
+  },
+  {
+    "externalId": "CON-YENHVAF3",
+    "id": "c_576adaaccc902b059a0000b7",
+    "nodes": [
+      "n_5769acf1cc902b654f0000bc",
+      "n_570fa87b46bb827e4800007a"
+    ],
+    "type": "stairs",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Stairs 4"
+    }
+  },
+  {
+    "externalId": "CON-39HKUZEE",
+    "id": "c_576adb99cc902b059a0000b8",
+    "nodes": [
+      "n_570fe6b15349730817000211",
+      "n_576a9c49cc902b059a000043"
+    ],
+    "type": "escalator",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Escalator 9"
+    }
+  },
+  {
+    "externalId": "CON-QKFLBJWB",
+    "id": "c_576adc8ccc902b059a0000b9",
+    "nodes": [
+      "n_5769520ccc902b654f000018",
+      "n_576a9997cc902b059a00002b"
+    ],
+    "type": "stairs",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Stairs 5"
+    }
+  },
+  {
+    "externalId": "CON-1DJNQYFU",
+    "id": "c_576adf5acc902b059a0000bb",
+    "nodes": [
+      "n_576adf30cc902b059a0000ba",
+      "n_57695858cc902b654f00003b"
+    ],
+    "type": "escalator",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Escalator 10"
+    }
+  },
+  {
+    "externalId": "CON-KRVWITQ7",
+    "id": "c_576ae083cc902b059a0000bc",
+    "nodes": [
+      "n_57699805cc902b654f0000a1",
+      "n_576aad86cc902b059a000070"
+    ],
+    "type": "escalator",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Escalator 11"
+    }
+  },
+  {
+    "externalId": "CON-JX5V4JAL",
+    "id": "c_576ae0f1cc902b059a0000bd",
+    "nodes": [
+      "n_578400211478373ba3000000",
+      "n_5769ad03cc902b654f0000be"
+    ],
+    "type": "escalator",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Escalator 12"
+    }
+  },
+  {
+    "externalId": "CON-SJ8KQWVK",
+    "id": "c_576ae115cc902b059a0000be",
+    "nodes": [
+      "n_578400231478373ba3000001",
+      "n_68efa85b1333c149c5255910"
+    ],
+    "type": "escalator",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Escalator 13"
+    }
+  },
+  {
+    "externalId": "CON-D7UCIGTM",
+    "id": "c_5783b4bb3d76220f2600000a",
+    "nodes": [
+      "n_57894f87cc902b1160000463",
+      "n_5769af3ccc902b654f0000c3"
+    ],
+    "type": "escalator",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Escalator 14"
+    }
+  },
+  {
+    "externalId": "CON-LFPLPEX8",
+    "id": "c_57894f4dcc902b1160000456",
+    "nodes": [
+      "n_5769af3dcc902b654f0000c4",
+      "n_57894f83cc902b1160000461"
+    ],
+    "type": "escalator",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Escalator 15"
+    }
+  },
+  {
+    "externalId": "CON-F6MZP9AP",
+    "id": "c_578954c83d76224298000000",
+    "nodes": [
+      "n_5723b54c3cc20c5b040002c3",
+      "n_68e933dcebf122fed3e806f5"
+    ],
+    "type": "escalator",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Escalator 16"
+    }
+  },
+  {
+    "externalId": "CON-TTDB9GEV",
+    "id": "c_578954f83d76224298000001",
+    "nodes": [
+      "n_5723b54e3cc20c5b040002c4",
+      "n_57b46df5cc902b3c54000001"
+    ],
+    "type": "elevator",
+    "accessible": true,
+    "flags": [
+      1
+    ],
+    "details": {
+      "name": "Elevator 2"
+    }
+  },
+  {
+    "externalId": "CON-BFFYJTKB",
+    "id": "c_579f3a520b10f97125000002",
+    "nodes": [
+      "n_579f3a080b10f97125000001",
+      "n_578923013d762200c0000007",
+      "n_579f39cd0b10f97125000000"
+    ],
+    "type": "elevator",
+    "accessible": true,
+    "flags": [
+      1
+    ],
+    "details": {
+      "name": "Elevator 3"
+    }
+  },
+  {
+    "externalId": "CON-INKW0C7Y",
+    "id": "c_57acb7eccc902b5de5000005",
+    "nodes": [
+      "n_5723a5a13cc20c5b040001b1",
+      "n_5723bd403cc20c4247000013"
+    ],
+    "type": "escalator",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Escalator 17"
+    }
+  },
+  {
+    "externalId": "CON-MYC28UYP",
+    "id": "c_5af49ca27f3dc252ab000004",
+    "nodes": [
+      "n_5af499267f3dc252ab000003",
+      "n_5769ad1dcc902b654f0000c2"
+    ],
+    "type": "escalator",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Escalator 18"
+    }
+  },
+  {
+    "externalId": "CON-IJUO4YEO",
+    "id": "c_68e92e31ebf122fed3e806e2",
+    "nodes": [
+      "n_68e92ddbebf122fed3e806db",
+      "n_68e92d91ebf122fed3e806d4"
+    ],
+    "type": "elevator",
+    "accessible": true,
+    "flags": [
+      1
+    ],
+    "details": {
+      "name": "Elevator 3"
+    },
+    "extra": {
+      "active": true
+    }
+  },
+  {
+    "externalId": "CON-BO98I54A",
+    "id": "c_68e92e33ebf122fed3e806e3",
+    "nodes": [
+      "n_68e92ddbebf122fed3e806db",
+      "n_68e92d91ebf122fed3e806d4",
+      "n_68e92e51ebf122fed3e806e6"
+    ],
+    "type": "elevator",
+    "accessible": true,
+    "flags": [
+      1
+    ],
+    "details": {
+      "name": "Elevator 4"
+    },
+    "extra": {
+      "active": true
+    }
+  },
+  {
+    "externalId": "CON-3MKIF5YG",
+    "id": "c_68e934cdebf122fed3e80700",
+    "nodes": [
+      "n_68e933d7ebf122fed3e806f3",
+      "n_68e9349bebf122fed3e806ff"
+    ],
+    "type": "escalator",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Escalator 19"
+    },
+    "extra": {
+      "active": true
+    }
+  },
+  {
+    "externalId": "CON-VW7YKJ5W",
+    "id": "c_68ee9cb61333c149c5255437",
+    "nodes": [
+      "n_68ee9bdc1333c149c5255436",
+      "n_68ee9d5d1333c149c5255447"
+    ],
+    "type": "escalator",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Escalator 20"
+    },
+    "extra": {
+      "active": true
+    }
+  },
+  {
+    "externalId": "CON-RL4N5I6F",
+    "id": "c_68efa53d1333c149c52558fc",
+    "nodes": [
+      "n_68eea7db1333c149c5255515",
+      "n_68eea0311333c149c52554a7"
+    ],
+    "type": "escalator",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Escalator 21"
+    },
+    "extra": {
+      "active": true
+    }
+  },
+  {
+    "externalId": "CON-CGXB4Z47",
+    "id": "c_68efa6a21333c149c5255909",
+    "nodes": [
+      "n_68eea7531333c149c525550b",
+      "n_68efa66d1333c149c5255905"
+    ],
+    "type": "escalator",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Escalator 22"
+    },
+    "extra": {
+      "active": true
+    }
+  },
+  {
+    "externalId": "CON-64BKKK4Q",
+    "id": "c_68efa6fd1333c149c525590a",
+    "nodes": [
+      "n_68eea5d51333c149c52554fd",
+      "n_68eea62e1333c149c5255502"
+    ],
+    "type": "escalator",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Escalator 23"
+    },
+    "extra": {
+      "active": true
+    }
+  },
+  {
+    "externalId": "CON-6X5YXEE4",
+    "id": "c_68efacb51333c149c5255919",
+    "nodes": [
+      "n_57894badcc902b1160000455",
+      "n_68efac881333c149c5255917"
+    ],
+    "type": "escalator",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Escalator 24"
+    },
+    "extra": {
+      "active": true
+    }
+  },
+  {
+    "externalId": "CON-ABFOE4J1",
+    "id": "c_68efacbc1333c149c525591a",
+    "nodes": [
+      "n_57894badcc902b1160000455",
+      "n_68efac881333c149c5255917"
+    ],
+    "type": "escalator",
+    "accessible": false,
+    "flags": [
+      0
+    ],
+    "details": {
+      "name": "Escalator 24"
+    },
+    "extra": {
+      "active": true
+    }
+  }
+]

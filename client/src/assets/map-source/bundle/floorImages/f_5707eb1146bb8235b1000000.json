@@ -1,0 +1,209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38718068066947,
+          40.089378649697885
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e4b3e46bb823d6c0000d8",
+        "rotation": 330.4362529537908,
+        "path": "https://resize-worker.mappedin.com/resize:fit:710:512:0/aHR0cHM6Ly9jZG4ubWFwcGVkaW4uY29tLzU3MDU1ZDc4YWIwYjMwMmE5NTAwMDAwMC8wYmVmYjJhOTIzNTZlMjc5YzcwMzQ1MDY2NGVjZjYxOWEyN2NmZTY0LnN2Zw==.png",
+        "width": 12.67890155123926,
+        "height": 9.143095203147185
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38774725796303,
+          40.089254228943766
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e4b3f46bb823d6c0000fd",
+        "rotation": 338.4362529537908,
+        "path": "https://resize-worker.mappedin.com/resize:fit:256:256:0/aHR0cHM6Ly9jZG4ubWFwcGVkaW4uY29tLzU3MDU1ZDc4YWIwYjMwMmE5NTAwMDAwMC8zZjdiMDUxZmE2ZjhkMzU0YWVjYTU1ZDQzOTUwZTNhYzc1ODNmNzNmLnBuZw==.png",
+        "width": 34.32278896278457,
+        "height": 34.32278896278457
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38710412822017,
+          40.089025649558586
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e4b4046bb823d6c00011c",
+        "rotation": 330.4362529537908,
+        "path": "https://resize-worker.mappedin.com/resize:fit:1716:1024:0/aHR0cHM6Ly9jZG4ubWFwcGVkaW4uY29tLzU3MDU1ZDc4YWIwYjMwMmE5NTAwMDAwMC84OWZlYTY5ZDA4ODU3YTMwMDc4MDMzYjEyMTVhYWE5ZjRmNWZmYjBlLnN2Zw==.png",
+        "width": 20.367884710411154,
+        "height": 12.154262204814117
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39299589962519,
+          40.08893552596547
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e503f46bb823d6c00019f",
+        "rotation": 330.4362529537908,
+        "path": "https://resize-worker.mappedin.com/resize:fit:206:128:0/aHR0cHM6Ly9jZG4ubWFwcGVkaW4uY29tLzU3MDU1ZDc4YWIwYjMwMmE5NTAwMDAwMC8xNWZiNTY5NzIxNDg3ZmUwZTcyMTMwM2ZiODY1ZmI5YWRlM2QyZGJhLnBuZw==.png",
+        "width": 66.98716978722295,
+        "height": 41.623095790119116
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38988802278247,
+          40.08683757325525
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e503f46bb823d6c0001a0",
+        "rotation": 330.4362529537908,
+        "path": "https://resize-worker.mappedin.com/resize:fit:512:512:0/aHR0cHM6Ly9jZG4ubWFwcGVkaW4uY29tLzU3MDU1ZDc4YWIwYjMwMmE5NTAwMDAwMC9lYWVhY2U5YTdmZmVhOTZjMjkwZGMzMzQ0MzQ3OWIzMTliYmJjYjI5LnBuZw==.png",
+        "width": 56.300105392901095,
+        "height": 56.300105392901095
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38755217034073,
+          40.08848909245441
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e503f46bb823d6c0001a1",
+        "rotation": 330.4362529537908,
+        "path": "https://resize-worker.mappedin.com/resize:fit:4094:1185:0/aHR0cHM6Ly9jZG4ubWFwcGVkaW4uY29tLzU3MDU1ZDc4YWIwYjMwMmE5NTAwMDAwMC9lZGIwNDk1Y2U0MDQxZTEyZDE3MGQ4ZTE1NTc4M2MxMmQzNTQ3NmQyLnBuZw==.png",
+        "width": 88.82479412053489,
+        "height": 25.710156578611098
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39212415742334,
+          40.08679683709134
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e503f46bb823d6c0001a4",
+        "rotation": 33.43625295379081,
+        "path": "https://resize-worker.mappedin.com/resize:fit:1024:128:0/aHR0cHM6Ly9jZG4ubWFwcGVkaW4uY29tLzU3MDU1ZDc4YWIwYjMwMmE5NTAwMDAwMC80ZTQwYmUxOGFkMWE5MTJjZWM0YmFhMmE3MGQ1MWRiZDliNTVmM2YxLnN2Zw==.png",
+        "width": 86.12453037934576,
+        "height": 10.76556629741822
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38979768155528,
+          40.08791352552774
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e503f46bb823d6c0001a5",
+        "rotation": 330.4362529537908,
+        "path": "https://resize-worker.mappedin.com/resize:fit:1332:512:0/aHR0cHM6Ly9jZG4ubWFwcGVkaW4uY29tLzU3MDU1ZDc4YWIwYjMwMmE5NTAwMDAwMC82NGY5M2UwMTFmNWI4NjNkNmI2MDJkMjFmY2ExYzdlMzg1ODBkMzMxLnN2Zw==.png",
+        "width": 60.94754766352649,
+        "height": 23.427285588382556
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38862599298389,
+          40.08870589382439
+        ]
+      },
+      "properties": {
+        "anchorId": "s_57913c4a20f9966311000005",
+        "rotation": 330.4362529537908,
+        "path": "https://resize-worker.mappedin.com/resize:fit:385:128:0/aHR0cHM6Ly9jZG4ubWFwcGVkaW4uY29tLzU3MDU1ZDc4YWIwYjMwMmE5NTAwMDAwMC81Nzg3OWE4ZGFiMTQzNmFlMzVmMzg5MGYucG5n.png",
+        "width": 19.525226013200268,
+        "height": 6.491503713479569
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38589143952578,
+          40.089431541246476
+        ]
+      },
+      "properties": {
+        "verticalOffset": 6.29764729974147,
+        "rotation": 331.43084295379083,
+        "path": "https://resize-worker.mappedin.com/resize:fit:512:62:0/aHR0cHM6Ly9jZG4ubWFwcGVkaW4uY29tLzU3MDU1ZDc4YWIwYjMwMmE5NTAwMDAwMC81NzlhNmI4NmU2MzQwMjRjOGU0YWQ1NGYucG5n.png",
+        "width": 133.2835407352692,
+        "height": 16.13980376091151
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3944165075795,
+          40.08763101387785
+        ]
+      },
+      "properties": {
+        "anchorId": "s_590b6b3cc42eb955cf000002",
+        "rotation": 233.4362529537908,
+        "path": "https://resize-worker.mappedin.com/resize:fit:1081:512:0/aHR0cHM6Ly9jZG4ubWFwcGVkaW4uY29tLzU3MDU1ZDc4YWIwYjMwMmE5NTAwMDAwMC81NzlmMmJkMGU2MzQwMjRjOGU0YWU0MDgucG5n.png",
+        "width": 59.1547300077342,
+        "height": 28.01778146527281
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39109206690961,
+          40.08911807935491
+        ]
+      },
+      "properties": {
+        "anchorId": "s_68f29cd98ee3030a49cb87a6",
+        "rotation": 330.4362529537908,
+        "path": "https://resize-worker.mappedin.com/resize:fit:256:256:0/aHR0cHM6Ly9jZG4ubWFwcGVkaW4uY29tLzU3MDU1ZDc4YWIwYjMwMmE5NTAwMDAwMC85YjQyZDE3YWFhYzM1NzIyNGY5MGMxMGNiNzY5ZDg0MmI5YmI4NTc0LnBuZw==.png",
+        "width": 29.782688399957845,
+        "height": 29.782688399957845
+      }
+    }
+  ]
+}

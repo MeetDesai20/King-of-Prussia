@@ -1,0 +1,163 @@
+{
+  "name": "King of Prussia®",
+  "slug": "simon-king-of-prussia",
+  "externalId": "845",
+  "defaultLanguage": {
+    "code": "en",
+    "name": "English"
+  },
+  "languages": [
+    {
+      "name": "English",
+      "code": "en",
+      "enabled": true
+    },
+    {
+      "name": "Français",
+      "code": "fr",
+      "enabled": true
+    },
+    {
+      "name": "Spanish",
+      "code": "es",
+      "enabled": true
+    },
+    {
+      "name": "Portuguese",
+      "code": "pt",
+      "enabled": true
+    },
+    {
+      "name": "Chinese",
+      "code": "zh",
+      "enabled": true
+    }
+  ],
+  "logo": "https://cdn.mappedin.com/57055d78ab0b302a95000000/ee7cf89243883730d367f411fc897371ea1a350f.svg",
+  "mappedinWebUrl": "https://www.simon.com/mall/king-of-prussia/map/#/",
+  "defaultFloor": "f_5707eb1146bb8235b1000000",
+  "propertyImage": "https://cdn.mappedin.com/57055d78ab0b302a95000000/ded663599e05fa6d77fd023eae6013c05fc50aa2.jpeg",
+  "operationHours": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday"
+      ],
+      "opens": "10:00",
+      "closes": "20:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Tuesday"
+      ],
+      "opens": "10:00",
+      "closes": "20:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Wednesday"
+      ],
+      "opens": "10:00",
+      "closes": "20:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Thursday"
+      ],
+      "opens": "10:00",
+      "closes": "20:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Friday"
+      ],
+      "opens": "10:00",
+      "closes": "21:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Saturday"
+      ],
+      "opens": "10:00",
+      "closes": "21:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Sunday"
+      ],
+      "opens": "11:00",
+      "closes": "18:00"
+    }
+  ],
+  "defaultMap": "f_5707eb1146bb8235b1000000",
+  "countrycode": "US",
+  "tzid": "America/New_York",
+  "type": "shopping-mall",
+  "topLocations": [
+    "el_6620bd5d758e52d429ad0ddb",
+    "el_6598f4663d17ff571b151e6b",
+    "el_57222521488a0c636c3f1215",
+    "el_57b3f19331c91b2fcc6d9331",
+    "el_64310bef551059109b08a3eb",
+    "el_62d65b5367ac1b110aab2f7c",
+    "el_63c79208188c27540eb11e01",
+    "el_620b4cff0926cbaf3f16fa2d",
+    "el_57a02b16e634024c8e4ae609",
+    "el_5722252a488a0c636c3f12cd"
+  ],
+  "extra": {
+    "popularTags": {
+      "en": [
+        "Accessories",
+        "Bags",
+        "Beauty & Personal Care",
+        "Bracelets",
+        "Dining",
+        "Dresses",
+        "Earrings",
+        "Eyewear",
+        "Footwear",
+        "Fragrance",
+        "Girls' Clothing",
+        "Handbags & Luggage",
+        "Home & Garden",
+        "Jackets",
+        "Jeans",
+        "Jewelry",
+        "Men",
+        "Men's Clothing",
+        "Miscellaneous",
+        "Necklaces",
+        "Pants",
+        "Shorts",
+        "Skirts",
+        "Sunglasses",
+        "Sweaters",
+        "Sweatshirts",
+        "Swimwear",
+        "T-Shirts",
+        "Underwear & Socks",
+        "Watches",
+        "Women",
+        "Women's Clothing"
+      ]
+    },
+    "socialLinks": {
+      "Facebook": "https://facebook.com/kingofprussiamall",
+      "GooglePlaces": "https://plus.google.com/b/101983033802663642786/101983033802663642786",
+      "GooglePlus": "https://plus.google.com/101250194346014526208/about",
+      "StyleSetter": "http://www.foundatsimon.com",
+      "Instagram": "https://instagram.com/kop_mall",
+      "ChatBot": "http://m.me/32008177489?ref=5b15a954484fc70d69882530",
+      "TikTok": "https://www.tiktok.com/@ShopKingOfPrussiaMall"
+    },
+    "lockProd": false,
+    "maxAutoExternalId": 10009
+  }
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "fs_5ac640d2d103af3b80000003",
+    "externalId": "MG-NJ7USHMV",
+    "maps": [
+      "f_5707eb1146bb8235b1000000",
+      "f_570e7f0346bb823d6c0001ae",
+      "f_570f9d9e46bb822c1a000000"
+    ],
+    "name": "Default",
+    "shortName": "Default",
+    "type": "Building"
+  }
+]

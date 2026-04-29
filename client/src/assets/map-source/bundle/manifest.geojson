@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38904190063478,
+          40.089181890452814
+        ]
+      },
+      "properties": {
+        "folder_struct": [
+          {
+            "type": "file",
+            "name": "connection.json"
+          },
+          {
+            "type": "file",
+            "name": "floor.geojson"
+          },
+          {
+            "type": "file",
+            "name": "map.geojson"
+          },
+          {
+            "type": "file",
+            "name": "mapstack.geojson"
+          },
+          {
+            "type": "file",
+            "name": "floorstack.json"
+          },
+          {
+            "type": "file",
+            "name": "node.geojson"
+          },
+          {
+            "type": "file",
+            "name": "floorImages"
+          },
+          {
+            "type": "folder",
+            "name": "space",
+            "children": [
+              {
+                "type": "file",
+                "name": "f_5707eb1146bb8235b1000000.geojson"
+              },
+              {
+                "type": "file",
+                "name": "f_570e7f0346bb823d6c0001ae.geojson"
+              },
+              {
+                "type": "file",
+                "name": "f_570f9d9e46bb822c1a000000.geojson"
+              }
+            ]
+          },
+          {
+            "type": "file",
+            "name": "styles.json"
+          },
+          {
+            "type": "file",
+            "name": "textAreas"
+          },
+          {
+            "type": "folder",
+            "name": "enterprise",
+            "children": [
+              {
+                "type": "file",
+                "name": "locations.json"
+              },
+              {
+                "type": "file",
+                "name": "categories.json"
+              },
+              {
+                "type": "file",
+                "name": "venue.json"
+              },
+              {
+                "type": "file",
+                "name": "locationInstances.json"
+              },
+              {
+                "type": "file",
+                "name": "layers.json"
+              },
+              {
+                "type": "file",
+                "name": "categoryPriorities.json"
+              },
+              {
+                "type": "file",
+                "name": "enterpriseStyles.json"
+              },
+              {
+                "type": "file",
+                "name": "textures.json"
+              },
+              {
+                "type": "file",
+                "name": "floorText.json"
+              }
+            ]
+          },
+          {
+            "type": "file",
+            "name": "navigationFlags.json"
+          },
+          {
+            "type": "file",
+            "name": "tileset.json"
+          }
+        ],
+        "name": "King of Prussia®",
+        "time": "2026-04-28T23:05:21.725Z",
+        "version": "2.0.0",
+        "naturalBearing": 330.4362529537908,
+        "language": "en",
+        "map": "simon-king-of-prussia",
+        "org_id": "5b47b77c773bbd3c3e542596"
+      }
+    }
+  ]
+}

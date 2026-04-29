@@ -1,0 +1,3252 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3845182619834,
+          40.08976560529826
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001af",
+        "rotation": 330.43032150685644,
+        "maxWidth": 31.784365706971958,
+        "maxHeight": 13.279464817445454,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39290185508096,
+          40.08844406389502
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001b0",
+        "rotation": 240.43032150685644,
+        "maxWidth": 17.650926221610533,
+        "maxHeight": 3.936537502661342,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39250179559144,
+          40.088615078829
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001b1",
+        "rotation": 240.43032150685644,
+        "maxWidth": 11.682627427253015,
+        "maxHeight": 4.825433067778419,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3928997904199,
+          40.08826770616543
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001b2",
+        "rotation": 330.43032150685644,
+        "maxWidth": 22.984299612312995,
+        "maxHeight": 5.428612201250721,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39256956639983,
+          40.08838477659621
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001b3",
+        "rotation": 330.43032150685644,
+        "maxWidth": 18.28585162526559,
+        "maxHeight": 2.920656856813254,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3926510742979,
+          40.08837434589547
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001b4",
+        "rotation": 330.43032150685644,
+        "maxWidth": 22.603344370119963,
+        "maxHeight": 6.2222689558195405,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3915167746648,
+          40.088073626134666
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001b5",
+        "rotation": 150.4303215068564,
+        "maxWidth": 28.44465808374647,
+        "maxHeight": 9.428642244277569,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39156245950053,
+          40.087218742075166
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001b7",
+        "rotation": 33.43032150685639,
+        "maxWidth": 15.873135091376378,
+        "maxHeight": 4.60320917649915,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39056587731794,
+          40.08724951527833
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001ba",
+        "rotation": 158.15129786399154,
+        "maxWidth": 14.984239526259302,
+        "maxHeight": 5.1746420397887,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39066949308929,
+          40.08722029939379
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001bb",
+        "rotation": 163.59519763479273,
+        "maxWidth": 13.841373799680202,
+        "maxHeight": 5.3968659310679685,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39129317538844,
+          40.087253387965625
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001bc",
+        "rotation": 240.43032150685644,
+        "maxWidth": 39.49236010734443,
+        "maxHeight": 9.714358675922345,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39084451233644,
+          40.087195148913736
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001bd",
+        "rotation": 172.95708459804837,
+        "maxWidth": 17.523941140879522,
+        "maxHeight": 7.873075005322684,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3909789915612,
+          40.087191007314786
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001be",
+        "rotation": 180.43032150685644,
+        "maxWidth": 11.936597588715037,
+        "maxHeight": 4.000030043026848,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39005076457997,
+          40.087364107137695
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001c0",
+        "rotation": 330.43032150685644,
+        "maxWidth": 11.04770202359796,
+        "maxHeight": 3.72489570144299,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39021679011044,
+          40.087452231610996
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001c1",
+        "rotation": 240.43032150685644,
+        "maxWidth": 15.365194768452335,
+        "maxHeight": 4.666701716864655,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39362389997656,
+          40.08794815675974
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001c3",
+        "rotation": 330.43032150685644,
+        "maxWidth": 21.714448805002885,
+        "maxHeight": 5.015910688874936,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3918546704256,
+          40.08743460078957
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001c5",
+        "rotation": 33.43032150685639,
+        "maxWidth": 32.00024034421478,
+        "maxHeight": 10.3492840795774,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39135676800606,
+          40.08812863042483
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001c6",
+        "rotation": 150.4303215068564,
+        "maxWidth": 29.968479052518603,
+        "maxHeight": 12.158821479994305,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39154472161441,
+          40.08743783073664
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001c7",
+        "rotation": 240.43032150685644,
+        "maxWidth": 38.34949438076533,
+        "maxHeight": 5.682582362712743,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39169859785142,
+          40.08747870792151
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001c8",
+        "rotation": 240.43032150685644,
+        "maxWidth": 48.00036051632217,
+        "maxHeight": 6.000045064540271,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39184677172007,
+          40.08773870217929
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001c9",
+        "rotation": 330.43032150685644,
+        "maxWidth": 25.143045984740183,
+        "maxHeight": 8.98419446171903,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39032049298332,
+          40.08749256584715
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001ca",
+        "rotation": 240.43032150685644,
+        "maxWidth": 21.206508482078842,
+        "maxHeight": 8.254030247515717,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39159990498383,
+          40.08802835440309
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001cb",
+        "rotation": 150.4303215068564,
+        "maxWidth": 21.587463724271874,
+        "maxHeight": 5.555597281981733,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39138555502852,
+          40.08792444119783
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001cc",
+        "rotation": 330.43032150685644,
+        "maxWidth": 26.539881872781304,
+        "maxHeight": 9.142925812632795,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38503937899789,
+          40.08944178982548
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001ce",
+        "rotation": 60.43032150685639,
+        "maxWidth": 25.76527288032209,
+        "maxHeight": 12.060408042427818,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39125178989738,
+          40.08799168954569
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001cf",
+        "rotation": 330.43032150685644,
+        "maxWidth": 25.524001226933215,
+        "maxHeight": 13.58105438418163,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39145941806721,
+          40.087197816416314
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001d0",
+        "rotation": 33.43032150685639,
+        "maxWidth": 28.571643164477482,
+        "maxHeight": 9.238164623181053,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39136831110685,
+          40.08715595501439
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001d1",
+        "rotation": 33.560423861012396,
+        "maxWidth": 29.46053872959456,
+        "maxHeight": 7.396880952581393,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39079639134918,
+          40.08711139058215
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001d5",
+        "rotation": 352.43032150685644,
+        "maxWidth": 26.793852034243326,
+        "maxHeight": 6.381000306733304,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39063500110112,
+          40.08713759619459
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001d6",
+        "rotation": 345.43032150685656,
+        "maxWidth": 14.095343961142138,
+        "maxHeight": 3.7733718405929544,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39115304052224,
+          40.08709708352814
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001d7",
+        "rotation": 33.43032150685639,
+        "maxWidth": 17.777911302341543,
+        "maxHeight": 4.825433067778419,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39126565681256,
+          40.08713092228661
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001d8",
+        "rotation": 33.43032150685639,
+        "maxWidth": 31.365314940559724,
+        "maxHeight": 7.174657061302123,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3929119031299,
+          40.08838586997075
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001db",
+        "rotation": 150.4303215068564,
+        "maxWidth": 7.6191048438606614,
+        "maxHeight": 6.984179440205606,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38996594053573,
+          40.087400921997144
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2a46bb823d6c0001dc",
+        "rotation": 330.43032150685644,
+        "maxWidth": 10.666746781404926,
+        "maxHeight": 4.063522583392353,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39064949083135,
+          40.08776729969325
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001dd",
+        "rotation": 60.22304255772241,
+        "maxWidth": 16.88901573722447,
+        "maxHeight": 3.777806151747578,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39101470709497,
+          40.0884241458854
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001de",
+        "rotation": 240.43032150685644,
+        "maxWidth": 15.619164929914357,
+        "maxHeight": 4.571462906316397,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38639307413881,
+          40.08948193185749
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001df",
+        "rotation": 330.43032150685644,
+        "maxWidth": 6.603224198012573,
+        "maxHeight": 4.857179337961172,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39138453550991,
+          40.088767816207074
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001e0",
+        "rotation": 60.43032150685639,
+        "maxWidth": 16.88901573722447,
+        "maxHeight": 13.492164827669923,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39144970298794,
+          40.088860326224534
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001e1",
+        "rotation": 60.43032150685639,
+        "maxWidth": 9.142925812632795,
+        "maxHeight": 4.825433067778419,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38582159222807,
+          40.08986384892016
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001e4",
+        "rotation": 164.43032150685644,
+        "maxWidth": 31.365314940559724,
+        "maxHeight": 8.254030247515717,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38563052943235,
+          40.08990474677195
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001e5",
+        "rotation": 166.10481401520747,
+        "maxWidth": 35.047882281759044,
+        "maxHeight": 8.50800040897774,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3865219174272,
+          40.0895770068147
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001e6",
+        "rotation": 150.4303215068564,
+        "maxWidth": 29.333553648863546,
+        "maxHeight": 25.68273257784698,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38545029575941,
+          40.08987923727566
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001e7",
+        "rotation": 195.43032150685644,
+        "maxWidth": 17.777911302341543,
+        "maxHeight": 7.6191048438606614,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3860882513199,
+          40.08976519958214
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001e8",
+        "rotation": 150.4303215068564,
+        "maxWidth": 29.079583487401525,
+        "maxHeight": 18.698553137641373,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38499114459292,
+          40.08978307469279
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001e9",
+        "rotation": 240.43032150685644,
+        "maxWidth": 6.603224198012573,
+        "maxHeight": 2.2539851829754456,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38513656210407,
+          40.089721120573955
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001ea",
+        "rotation": 240.43032150685644,
+        "maxWidth": 14.412806662969752,
+        "maxHeight": 5.619089822347238,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38536279491068,
+          40.089860751997904
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001eb",
+        "rotation": 195.43032150685644,
+        "maxWidth": 15.111224606990312,
+        "maxHeight": 5.3016271205197105,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38528824000946,
+          40.089845839340825
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001ec",
+        "rotation": 240.43032150685644,
+        "maxWidth": 25.016060904009173,
+        "maxHeight": 10.539761700673916,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38679395809618,
+          40.08943006660967
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001ed",
+        "rotation": 135.4303215068564,
+        "maxWidth": 32.508180667138824,
+        "maxHeight": 10.412776619942905,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38417831339629,
+          40.09018043093556
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001ee",
+        "rotation": 330.43032150685644,
+        "maxWidth": 56.978205724004624,
+        "maxHeight": 26.085910209167942,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39392924613645,
+          40.08798499705136
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001ef",
+        "rotation": 150.4303215068564,
+        "maxWidth": 39.873315349537464,
+        "maxHeight": 11.111194563963465,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39368867227061,
+          40.08809335796441
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001f0",
+        "rotation": 150.4303215068564,
+        "maxWidth": 24.000180258161084,
+        "maxHeight": 7.1429107911193706,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39314702581598,
+          40.088344214397736
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001f1",
+        "rotation": 240.43032150685644,
+        "maxWidth": 15.619164929914357,
+        "maxHeight": 3.047641937544265,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39218956114547,
+          40.088781289832475
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001f2",
+        "rotation": 150.4303215068564,
+        "maxWidth": 17.682672491793287,
+        "maxHeight": 11.301672185059866,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39207154827184,
+          40.088833331513115
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001f4",
+        "rotation": 150.4303215068564,
+        "maxWidth": 36.57170325053118,
+        "maxHeight": 9.523881054825827,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39195153933896,
+          40.088886731708065
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001f5",
+        "rotation": 150.4303215068564,
+        "maxWidth": 36.57170325053118,
+        "maxHeight": 11.936597588715037,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39342578318411,
+          40.088042027433296
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001f6",
+        "rotation": 195.43032150685644,
+        "maxWidth": 5.714328632895496,
+        "maxHeight": 2.6666866953512316,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39345163802933,
+          40.08805837807924
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001f7",
+        "rotation": 60.43032150685639,
+        "maxWidth": 6.2222689558195405,
+        "maxHeight": 2.3174777233409514,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39351284424309,
+          40.087985856652615
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001f8",
+        "rotation": 60.43032150685639,
+        "maxWidth": 7.492119763129651,
+        "maxHeight": 4.444477825585386,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39339741680405,
+          40.0879598041279
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001f9",
+        "rotation": 60.43032150685639,
+        "maxWidth": 14.85725444552829,
+        "maxHeight": 4.857179337961172,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39336630532182,
+          40.087915536231726
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001fa",
+        "rotation": 60.43032150685639,
+        "maxWidth": 11.428657265790992,
+        "maxHeight": 4.666701716864655,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39321332325342,
+          40.087790240643095
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001fb",
+        "rotation": 330.43032150685644,
+        "maxWidth": 8.50800040897774,
+        "maxHeight": 5.1746420397887,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39314209110924,
+          40.08782378478302
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001fc",
+        "rotation": 330.43032150685644,
+        "maxWidth": 9.523881054825827,
+        "maxHeight": 4.190507664123364,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39304549959708,
+          40.08813093456107
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001fd",
+        "rotation": 240.43032150685667,
+        "maxWidth": 6.730209278743585,
+        "maxHeight": 4.0317763132096,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39301382653215,
+          40.08808822338043
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001fe",
+        "rotation": 240.43032150685644,
+        "maxWidth": 8.50800040897774,
+        "maxHeight": 5.1746420397887,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39315982991985,
+          40.08819947950404
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c0001ff",
+        "rotation": 285.43032150685644,
+        "maxWidth": 10.666746781404926,
+        "maxHeight": 2.7936717760822427,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39308682550275,
+          40.08784645965206
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c000200",
+        "rotation": 330.43032150685644,
+        "maxWidth": 9.77785121628785,
+        "maxHeight": 4.412731555402633,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39301943991043,
+          40.0879361057613
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c000201",
+        "rotation": 330.43032150685644,
+        "maxWidth": 15.492179849183346,
+        "maxHeight": 7.746089924591673,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39343017636648,
+          40.08800860866965
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c000202",
+        "rotation": 60.43032150685639,
+        "maxWidth": 6.603224198012573,
+        "maxHeight": 5.555597281981733,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.393109673598,
+          40.08821457772356
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c000203",
+        "rotation": 260.4303215068562,
+        "maxWidth": 7.365134682398726,
+        "maxHeight": 2.6666866953512236,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39228655514815,
+          40.088204477660504
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c000204",
+        "rotation": 240.43032150685644,
+        "maxWidth": 24.50812058108513,
+        "maxHeight": 10.761985591953184,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39220281557041,
+          40.087920290857554
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c000208",
+        "rotation": 60.43032150685639,
+        "maxWidth": 55.11152503725879,
+        "maxHeight": 29.555777540142817,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39044274832283,
+          40.08749596256927
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c00020b",
+        "rotation": 60.43032150685639,
+        "maxWidth": 34.15898671664197,
+        "maxHeight": 6.254015226002293,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39332982578352,
+          40.08787097235411
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c00020d",
+        "rotation": 60.43032150685639,
+        "maxWidth": 11.428657265790992,
+        "maxHeight": 4.2857464746716225,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39049351864013,
+          40.08755927043609
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c00020e",
+        "rotation": 60.43032150685639,
+        "maxWidth": 29.71450889105658,
+        "maxHeight": 6.031791334723024,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3905329423185,
+          40.087607808399724
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c00020f",
+        "rotation": 60.43032150685639,
+        "maxWidth": 29.079583487401525,
+        "maxHeight": 5.238134580154205,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39326639682123,
+          40.088310783957766
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c000210",
+        "rotation": 150.43032150685644,
+        "maxWidth": 36.57170325053118,
+        "maxHeight": 13.58740363821818,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39343496597759,
+          40.088244182046274
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c000211",
+        "rotation": 150.4303215068564,
+        "maxWidth": 25.65098630766423,
+        "maxHeight": 12.063582669446047,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39240281342397,
+          40.08818536497113
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c000212",
+        "rotation": 60.43032150685639,
+        "maxWidth": 54.857554875796765,
+        "maxHeight": 10.888970672684195,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39233539830114,
+          40.08809908271335
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c000213",
+        "rotation": 60.43032150685639,
+        "maxWidth": 44.69874841731588,
+        "maxHeight": 7.555612303495156,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39068761641157,
+          40.087816401104355
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c000214",
+        "rotation": 60.43032150685639,
+        "maxWidth": 45.33367382097094,
+        "maxHeight": 7.71434365440892,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39174566480663,
+          40.08897477351727
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c000215",
+        "rotation": 150.4303215068564,
+        "maxWidth": 36.57170325053118,
+        "maxHeight": 22.984299612312995,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39276440406755,
+          40.088369798039984
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c000216",
+        "rotation": 330.43032150685644,
+        "maxWidth": 27.17480727643636,
+        "maxHeight": 6.79370181910909,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39282578613614,
+          40.088299827068404
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2b46bb823d6c000217",
+        "rotation": 330.43032150685644,
+        "maxWidth": 22.984299612312995,
+        "maxHeight": 6.44449284709881,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3864722763269,
+          40.08944756123521
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c000218",
+        "rotation": 330.43032150685644,
+        "maxWidth": 15.365194768452335,
+        "maxHeight": 7.1429107911193706,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38692877848982,
+          40.088548344733496
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c000219",
+        "rotation": 240.43032150685644,
+        "maxWidth": 22.158896587561426,
+        "maxHeight": 14.809635040254161,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38498700110983,
+          40.089488151577285
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c00021b",
+        "rotation": 240.43032150685644,
+        "maxWidth": 22.984299612312995,
+        "maxHeight": 3.142880748092523,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3850076268657,
+          40.08952384062314
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c00021c",
+        "rotation": 240.43032150685644,
+        "maxWidth": 22.158896587561426,
+        "maxHeight": 3.888918097387213,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38492478772866,
+          40.08939961127732
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c00021d",
+        "rotation": 240.43032150685644,
+        "maxWidth": 23.23826977377502,
+        "maxHeight": 8.98419446171903,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3846867615651,
+          40.089691961752855
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c00021e",
+        "rotation": 330.43032150685644,
+        "maxWidth": 19.301732271113675,
+        "maxHeight": 10.920716942866948,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38656221108353,
+          40.08940722005586
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c00021f",
+        "rotation": 330.43032150685644,
+        "maxWidth": 15.238209687721323,
+        "maxHeight": 5.121731589484112,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39096995193694,
+          40.08836610491487
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c000220",
+        "rotation": 240.43032150685644,
+        "maxWidth": 27.428777437898383,
+        "maxHeight": 8.50800040897774,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38476842595098,
+          40.090045149711166
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c000221",
+        "rotation": 240.43032150685644,
+        "maxWidth": 72.00054077448326,
+        "maxHeight": 19.873165134403227,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38479498580537,
+          40.08984718919608
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c000222",
+        "rotation": 150.4303215068564,
+        "maxWidth": 31.746270182752756,
+        "maxHeight": 18.09537400416907,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39177306600601,
+          40.08883814742013
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c000223",
+        "rotation": 330.43032150685644,
+        "maxWidth": 30.984359698366692,
+        "maxHeight": 14.381060392786999,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3907419835714,
+          40.08787814796674
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c000225",
+        "rotation": 60.43032150685639,
+        "maxWidth": 45.71462906316397,
+        "maxHeight": 7.71434365440892,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38719974281936,
+          40.08929729629343
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c000227",
+        "rotation": 284.93032150685644,
+        "maxWidth": 22.801758558762167,
+        "maxHeight": 6.144887422249081,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38633910333593,
+          40.089504040067325
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c000228",
+        "rotation": 330.43032150685644,
+        "maxWidth": 15.111224606990312,
+        "maxHeight": 3.841298692113084,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3866356904563,
+          40.08935826452617
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c000229",
+        "rotation": 330.43032150685644,
+        "maxWidth": 13.42232303326784,
+        "maxHeight": 5.292103239464878,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38671280372152,
+          40.089305106043454
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c00022a",
+        "rotation": 315.43032150685644,
+        "maxWidth": 8.723875046220435,
+        "maxHeight": 3.419073298682466,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39148379732478,
+          40.0888993607174
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c00022b",
+        "rotation": 60.43032150685639,
+        "maxWidth": 16.254090333569412,
+        "maxHeight": 4.222253934306117,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38977288990918,
+          40.08743218975633
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c00022c",
+        "rotation": 330.43032150685644,
+        "maxWidth": 20.063642755499743,
+        "maxHeight": 9.77785121628785,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38990966343351,
+          40.08739908768277
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c00022d",
+        "rotation": 240.43032150685644,
+        "maxWidth": 21.333493562809853,
+        "maxHeight": 3.936537502661342,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38841101772915,
+          40.08834623354413
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c00022e",
+        "rotation": 150.07207201319937,
+        "maxWidth": 23.043016834619873,
+        "maxHeight": 7.49553811925466,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38604789448839,
+          40.08963172516096
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c000232",
+        "rotation": 330.43032150685644,
+        "maxWidth": 15.111224606990312,
+        "maxHeight": 7.809582464957178,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38591396411523,
+          40.08968984479952
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c000233",
+        "rotation": 330.43032150685644,
+        "maxWidth": 15.238209687721323,
+        "maxHeight": 5.746074903078249,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3856714892821,
+          40.08976093089966
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c000234",
+        "rotation": 330.43032150685644,
+        "maxWidth": 12.063582669446047,
+        "maxHeight": 3.015895667361512,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38597888434406,
+          40.089661672429756
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c000235",
+        "rotation": 330.43032150685644,
+        "maxWidth": 15.365194768452335,
+        "maxHeight": 3.841298692113084,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38550728419841,
+          40.089754724643676
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c000236",
+        "rotation": 15.430321506856387,
+        "maxWidth": 10.412776619942905,
+        "maxHeight": 3.4603434499200505,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38583476136327,
+          40.08972421504155
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c000237",
+        "rotation": 330.43032150685644,
+        "maxWidth": 15.365194768452335,
+        "maxHeight": 5.365119660885216,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38678642854038,
+          40.08905652025006
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c000238",
+        "rotation": 240.43032150685644,
+        "maxWidth": 10.920716942866948,
+        "maxHeight": 2.634940425168479,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38676630785301,
+          40.08899697906738
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c000239",
+        "rotation": 240.43032150685644,
+        "maxWidth": 18.15886654453458,
+        "maxHeight": 5.333373390702463,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.386726026379,
+          40.08892124115881
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c00023a",
+        "rotation": 240.43032150685644,
+        "maxWidth": 19.301732271113675,
+        "maxHeight": 6.857194359474596,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38663427069315,
+          40.088689281649216
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c00023b",
+        "rotation": 240.43032150685644,
+        "maxWidth": 25.638287799591076,
+        "maxHeight": 15.36202014143405,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39381046430836,
+          40.08805624980624
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c00023c",
+        "rotation": 150.4303215068564,
+        "maxWidth": 35.93677784687612,
+        "maxHeight": 5.936552524174766,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39357622524919,
+          40.088154639174185
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c00023d",
+        "rotation": 150.4303215068564,
+        "maxWidth": 35.55582260468306,
+        "maxHeight": 10.804525593998136,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39298162896362,
+          40.08803786191188
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c00023e",
+        "rotation": 240.43032150685644,
+        "maxWidth": 8.50800040897774,
+        "maxHeight": 5.809567443443755,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39296600471985,
+          40.08823896637022
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c00023f",
+        "rotation": 330.43032150685644,
+        "maxWidth": 22.984299612312995,
+        "maxHeight": 5.87305998380926,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39115246231552,
+          40.08818638329806
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c000241",
+        "rotation": 150.43032150685644,
+        "maxWidth": 37.98123764664545,
+        "maxHeight": 14.447727560170733,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39221906912388,
+          40.08861568372648
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c000247",
+        "rotation": 330.43032150685644,
+        "maxWidth": 27.682747599360404,
+        "maxHeight": 7.36513468239864,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39075929101469,
+          40.08808826159467
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c000249",
+        "rotation": 240.43032150685644,
+        "maxWidth": 51.55594277679048,
+        "maxHeight": 13.428672287304416,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39113160769395,
+          40.08858873688789
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c00024a",
+        "rotation": 240.43032150685644,
+        "maxWidth": 46.60352462828105,
+        "maxHeight": 10.984209483232455,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39120933365024,
+          40.088688925971134
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c00024c",
+        "rotation": 240.43032150685644,
+        "maxWidth": 46.85749478974307,
+        "maxHeight": 12.952478234563126,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39107142204044,
+          40.088500629666065
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c00024d",
+        "rotation": 240.43032150685644,
+        "maxWidth": 51.8099129382525,
+        "maxHeight": 9.523881054825827,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38702852051367,
+          40.08885298918606
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c00024f",
+        "rotation": 150.4303215068564,
+        "maxWidth": 37.9685391385723,
+        "maxHeight": 11.714373697435768,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3923150736439,
+          40.08872894709662
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c000250",
+        "rotation": 150.4303215068564,
+        "maxWidth": 35.6828076854141,
+        "maxHeight": 7.36513468239864,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3923466810492,
+          40.08893646677912
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2c46bb823d6c000251",
+        "rotation": 150.4303215068564,
+        "maxWidth": 14.730269364797337,
+        "maxHeight": 5.904806253992013,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38707681789911,
+          40.08912875459693
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570e7f2d46bb823d6c000256",
+        "rotation": 15.430321506856387,
+        "maxWidth": 9.015940731901782,
+        "maxHeight": 4.825433067778419,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3933952195102,
+          40.088137355799944
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570ead8746bb827afa000011",
+        "rotation": 240.43032150685644,
+        "maxWidth": 4.825433067778419,
+        "maxHeight": 2.6666866953512316,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3920910705326,
+          40.08783092871759
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570ead8746bb827afa000013",
+        "rotation": 240.43032150685644,
+        "maxWidth": 2.6666866953512316,
+        "maxHeight": 2.4444628040719625,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39301192215292,
+          40.08828468586449
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570fcf0b46bb827e480000f6",
+        "rotation": 240.43032150685644,
+        "maxWidth": 4.825433067778419,
+        "maxHeight": 4.4762240957681385,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39346506073288,
+          40.08812739275867
+        ]
+      },
+      "properties": {
+        "anchorId": "s_570fcf3146bb827e480000f7",
+        "rotation": 60.43032150685639,
+        "maxWidth": 4.95241814850943,
+        "maxHeight": 2.8889105866305007,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38724712624065,
+          40.08936076171842
+        ]
+      },
+      "properties": {
+        "anchorId": "s_571103f153497352cd000023",
+        "rotation": 150.4303215068564,
+        "maxWidth": 9.77785121628785,
+        "maxHeight": 4.444477825585386,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38724996977527,
+          40.08941204548338
+        ]
+      },
+      "properties": {
+        "anchorId": "s_571103f153497352cd000024",
+        "rotation": 240.43032150685644,
+        "maxWidth": 5.587884600727066,
+        "maxHeight": 9.524016316966472,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38691084209343,
+          40.0868258562948
+        ]
+      },
+      "properties": {
+        "anchorId": "s_573631ecff75975daa000013",
+        "rotation": 330.43032150685644,
+        "maxWidth": 39.49236010734443,
+        "maxHeight": 15.301702228086828,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38335875014948,
+          40.08829161943183
+        ]
+      },
+      "properties": {
+        "anchorId": "s_573631ecff75975daa000014",
+        "rotation": 330.43032150685644,
+        "maxWidth": 28.952598406670514,
+        "maxHeight": 51.46070396624222,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3919277188761,
+          40.087549311097234
+        ]
+      },
+      "properties": {
+        "anchorId": "s_579132d220f9964a0d000004",
+        "rotation": 60.43032150685639,
+        "maxWidth": 42.15904680269566,
+        "maxHeight": 12.765534866201797,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3905862253994,
+          40.08769470959161
+        ]
+      },
+      "properties": {
+        "anchorId": "s_5791353520f9964a0d000008",
+        "rotation": 60.43032150685639,
+        "maxWidth": 33.3970762322559,
+        "maxHeight": 12.952478234563126,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39065197417847,
+          40.087930343479755
+        ]
+      },
+      "properties": {
+        "anchorId": "s_5797a57020f9967f17000003",
+        "rotation": 240.43032150685644,
+        "maxWidth": 41.77809156050263,
+        "maxHeight": 10.698493051587679,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39223381680162,
+          40.08812872985289
+        ]
+      },
+      "properties": {
+        "anchorId": "s_5797a71e20f99641b5000003",
+        "rotation": 240.43032150685644,
+        "maxWidth": 25.77797138839524,
+        "maxHeight": 6.44449284709881,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39125908006527,
+          40.08860094757987
+        ]
+      },
+      "properties": {
+        "anchorId": "s_582a179a5483cc103c000000",
+        "rotation": 60.43032150685639,
+        "maxWidth": 33.27009115152489,
+        "maxHeight": 6.206395820728164,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39130741234092,
+          40.088667283406416
+        ]
+      },
+      "properties": {
+        "anchorId": "s_582a179a5483cc103c000001",
+        "rotation": 60.43032150685639,
+        "maxWidth": 33.3970762322559,
+        "maxHeight": 10.396903484851528,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39236120671823,
+          40.08830977574952
+        ]
+      },
+      "properties": {
+        "anchorId": "s_584ec5b35483cc6818000000",
+        "rotation": 240.43032150685644,
+        "maxWidth": 13.206448396025118,
+        "maxHeight": 9.142925812632795,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39092945421778,
+          40.08812633855139
+        ]
+      },
+      "properties": {
+        "anchorId": "s_58657bba78cde3067500000f",
+        "rotation": 60.43032150685639,
+        "maxWidth": 23.49223993523704,
+        "maxHeight": 8.381015328246727,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39079901803377,
+          40.0879794229688
+        ]
+      },
+      "properties": {
+        "anchorId": "s_58657bd878cde30675000010",
+        "rotation": 60.43032150685639,
+        "maxWidth": 25.209713152123918,
+        "maxHeight": 14.346139495586018,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39086174518718,
+          40.0880669551375
+        ]
+      },
+      "properties": {
+        "anchorId": "s_58657bd878cde30675000011",
+        "rotation": 60.43032150685639,
+        "maxWidth": 12.48773697460408,
+        "maxHeight": 7.4641342650167966,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39039819611786,
+          40.087438818497816
+        ]
+      },
+      "properties": {
+        "anchorId": "s_59c2a5f1f6e9584da7000000",
+        "rotation": 60.43032150685639,
+        "maxWidth": 10.15880645848094,
+        "maxHeight": 8.444507868612234,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39046904011526,
+          40.0872849797948
+        ]
+      },
+      "properties": {
+        "anchorId": "s_59c2a5f1f6e9584da7000001",
+        "rotation": 150.43032150685644,
+        "maxWidth": 16.00012017210739,
+        "maxHeight": 6.285761496185104,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39176238131184,
+          40.08780946789184
+        ]
+      },
+      "properties": {
+        "anchorId": "s_5a833c5ca270af08b3000000",
+        "rotation": 330.43032150685644,
+        "maxWidth": 31.111344779097703,
+        "maxHeight": 8.825463110805266,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3937366592771,
+          40.087901182776804
+        ]
+      },
+      "properties": {
+        "anchorId": "s_5a90720800510854d200000a",
+        "rotation": 330.43032150685644,
+        "maxWidth": 44.825733498046894,
+        "maxHeight": 10.412776619942905,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39036400157852,
+          40.08772265437242
+        ]
+      },
+      "properties": {
+        "anchorId": "s_5bd85f4ad2ec570d3f000000",
+        "rotation": 150.43032150685644,
+        "maxWidth": 16.333456009026293,
+        "maxHeight": 18.26997849017427,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3905734219524,
+          40.08783569140607
+        ]
+      },
+      "properties": {
+        "anchorId": "s_5bd85f4ad2ec570d3f000001",
+        "rotation": 240.43032150685644,
+        "maxWidth": 12.428664776547762,
+        "maxHeight": 6.236554777401802,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39092152822714,
+          40.08710548716791
+        ]
+      },
+      "properties": {
+        "anchorId": "s_5be06f51634ef6375b000000",
+        "rotation": 1.930321506856444,
+        "maxWidth": 24.021380959569626,
+        "maxHeight": 9.440160257620787,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3910542066676,
+          40.08710794177219
+        ]
+      },
+      "properties": {
+        "anchorId": "s_5be06f51634ef6375b000001",
+        "rotation": 1.9303215068563873,
+        "maxWidth": 22.59754028211312,
+        "maxHeight": 10.514825416007609,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39183369833891,
+          40.087486611449805
+        ]
+      },
+      "properties": {
+        "anchorId": "s_5bf4681c634ef61fe3000000",
+        "rotation": 239.43032150685644,
+        "maxWidth": 2.8402683450769266,
+        "maxHeight": 2.8119232929861546,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39206008610891,
+          40.088714885862466
+        ]
+      },
+      "properties": {
+        "anchorId": "s_5d1275a8e12b8f3bdd000002",
+        "rotation": 330.43032150685644,
+        "maxWidth": 56.00042060237586,
+        "maxHeight": 10.793731862135937,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39192960326888,
+          40.088771519112285
+        ]
+      },
+      "properties": {
+        "anchorId": "s_5d1275b0e12b8f3bdd000003",
+        "rotation": 330.43032150685644,
+        "maxWidth": 55.61946536018283,
+        "maxHeight": 12.698508073101102,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3852593132795,
+          40.089633224844846
+        ]
+      },
+      "properties": {
+        "anchorId": "s_5d448224b7d5e85882000000",
+        "rotation": 60.43032150685639,
+        "maxWidth": 19.68268751330671,
+        "maxHeight": 24.50812058108513,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39342190380063,
+          40.088131682011145
+        ]
+      },
+      "properties": {
+        "anchorId": "s_5d448335b7d5e85882000002",
+        "rotation": 240.43032150685644,
+        "maxWidth": 4.825433067778419,
+        "maxHeight": 2.6666866953512316,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39204794096972,
+          40.08788559140676
+        ]
+      },
+      "properties": {
+        "anchorId": "s_5f6e02a42fe8bb292d000000",
+        "rotation": 240.43032150685644,
+        "maxWidth": 35.778046495962386,
+        "maxHeight": 14.825508175345538,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39214199376751,
+          40.08801184657727
+        ]
+      },
+      "properties": {
+        "anchorId": "s_5f6e02a42fe8bb292d000001",
+        "rotation": 240.43032150685644,
+        "maxWidth": 37.841554057841115,
+        "maxHeight": 16.92076200740722,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39114995685928,
+          40.08720590519844
+        ]
+      },
+      "properties": {
+        "anchorId": "s_5fd10fdae56c4e2443000000",
+        "rotation": 193.43032150685644,
+        "maxWidth": 8.67453084109979,
+        "maxHeight": 7.000080336324543,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39105599051103,
+          40.087193619225815
+        ]
+      },
+      "properties": {
+        "anchorId": "s_5fd10ffbe56c4e2443000001",
+        "rotation": 186.43032150685644,
+        "maxWidth": 8.739063841770252,
+        "maxHeight": 7.422334318594588,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39105354969736,
+          40.08817301527588
+        ]
+      },
+      "properties": {
+        "anchorId": "s_62a3a3c1978a2972ea683aac",
+        "rotation": 240.3358873687705,
+        "maxWidth": 4.976973674923804,
+        "maxHeight": 2.3524398789378576,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39054820155415,
+          40.087157279213216
+        ]
+      },
+      "properties": {
+        "anchorId": "s_64525810d5711e03c931760b",
+        "rotation": 340.185331378295,
+        "maxWidth": 11.63662538534558,
+        "maxHeight": 4.317492744854355,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39045814104843,
+          40.08719254993609
+        ]
+      },
+      "properties": {
+        "anchorId": "s_64525837d5711e03c931760c",
+        "rotation": 330.2222178588971,
+        "maxWidth": 11.13332615796252,
+        "maxHeight": 3.9788658629049443,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39038632030616,
+          40.08722337063962
+        ]
+      },
+      "properties": {
+        "anchorId": "s_6452585fd5711e03c931760f",
+        "rotation": 331.43032150685644,
+        "maxWidth": 11.555642346522003,
+        "maxHeight": 3.894209142417672,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3886124796267,
+          40.0882851536954
+        ]
+      },
+      "properties": {
+        "anchorId": "s_646e5c3e424dafe176b20bb6",
+        "rotation": 163.43032150685644,
+        "maxWidth": 17.72454089176307,
+        "maxHeight": 10.243463178968284,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39163772161794,
+          40.0878648870154
+        ]
+      },
+      "properties": {
+        "anchorId": "s_6478ad4d3e525762f8a4ff49",
+        "rotation": 330.43032150685644,
+        "maxWidth": 31.365314940559724,
+        "maxHeight": 10.497433340430245,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38610306092656,
+          40.08692415821671
+        ]
+      },
+      "properties": {
+        "anchorId": "s_65085402a65466a7d6884647",
+        "rotation": 150.4303215068564,
+        "maxWidth": 23.809702637064916,
+        "maxHeight": 13.269940936390652,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3923130108116,
+          40.08856965804693
+        ]
+      },
+      "properties": {
+        "anchorId": "s_663e520547c5553e714a961b",
+        "rotation": 330.43032150685644,
+        "maxWidth": 20.6985681591548,
+        "maxHeight": 7.460373492946898,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39128574278176,
+          40.08879428205358
+        ]
+      },
+      "properties": {
+        "anchorId": "s_66e345c045aa1dfb9118c0ff",
+        "rotation": 240.43032150685644,
+        "maxWidth": 46.85749478974307,
+        "maxHeight": 12.825493153832115,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39172456610576,
+          40.08788387167558
+        ]
+      },
+      "properties": {
+        "anchorId": "s_66ed85e6cc58ed0a5bf8cfea",
+        "rotation": 61.43032150685639,
+        "maxWidth": 2.7936717760822427,
+        "maxHeight": 0.973552285604418,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3920387144802,
+          40.087687002015784
+        ]
+      },
+      "properties": {
+        "anchorId": "s_684094f3b97f691c1eead9a3",
+        "rotation": 60.057644217337156,
+        "maxWidth": 40.297388063685155,
+        "maxHeight": 14.768967008695101,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39122374826911,
+          40.08895720485494
+        ]
+      },
+      "properties": {
+        "anchorId": "s_68540ebba5c1b815f2c5ecb2",
+        "rotation": 240.3304623480915,
+        "maxWidth": 31.784950648484422,
+        "maxHeight": 11.182831377739966,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39065548892606,
+          40.087840192345254
+        ]
+      },
+      "properties": {
+        "anchorId": "s_68adf6496222c369e0065081",
+        "rotation": 240.43032150685644,
+        "maxWidth": 3.3016120990062867,
+        "maxHeight": 1.1428657265790994,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38712897286182,
+          40.08941203669289
+        ]
+      },
+      "properties": {
+        "anchorId": "s_68e92df5ebf122fed3e806dc",
+        "rotation": 150.4303215068564,
+        "maxWidth": 10.031821377749871,
+        "maxHeight": 4.539716636133645,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38712897286182,
+          40.08941203669289
+        ]
+      },
+      "properties": {
+        "anchorId": "s_68e92df5ebf122fed3e806dd",
+        "rotation": 150.4303215068564,
+        "maxWidth": 10.031821377749871,
+        "maxHeight": 4.539716636133645,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39145957498273,
+          40.08734151957811
+        ]
+      },
+      "properties": {
+        "anchorId": "s_68e93530ebf122fed3e80701",
+        "rotation": 240.43032150685644,
+        "maxWidth": 38.09552421930331,
+        "maxHeight": 14.031851420776718,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39145957498273,
+          40.08734151957811
+        ]
+      },
+      "properties": {
+        "anchorId": "s_68e93530ebf122fed3e80702",
+        "rotation": 240.43032150685644,
+        "maxWidth": 38.09552421930331,
+        "maxHeight": 14.031851420776718,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3933700693365,
+          40.087827244753605
+        ]
+      },
+      "properties": {
+        "anchorId": "s_68eeba371333c149c52558ea",
+        "rotation": 330.43032150685644,
+        "maxWidth": 12.952478234563126,
+        "maxHeight": 6.984179440205606,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3933700693365,
+          40.087827244753605
+        ]
+      },
+      "properties": {
+        "anchorId": "s_68eeba3c1333c149c52558ec",
+        "rotation": 330.43032150685644,
+        "maxWidth": 12.952478234563126,
+        "maxHeight": 6.984179440205606,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3933700693365,
+          40.087827244753605
+        ]
+      },
+      "properties": {
+        "anchorId": "s_68eeba3c1333c149c52558ed",
+        "rotation": 330.43032150685644,
+        "maxWidth": 12.952478234563126,
+        "maxHeight": 6.984179440205606,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3933700693365,
+          40.087827244753605
+        ]
+      },
+      "properties": {
+        "anchorId": "s_68eeba3c1333c149c52558ee",
+        "rotation": 330.43032150685644,
+        "maxWidth": 12.952478234563126,
+        "maxHeight": 6.984179440205606,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39449375950097,
+          40.0860501273991
+        ]
+      },
+      "properties": {
+        "anchorId": "s_690231b2a5db041877920ca0",
+        "rotation": 357.55511911770157,
+        "maxWidth": 44.825733498046894,
+        "maxHeight": 14.539791743700762,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39538694036021,
+          40.08612984770074
+        ]
+      },
+      "properties": {
+        "anchorId": "s_690231b2a5db041877920ca1",
+        "rotation": 102.96486502613834,
+        "maxWidth": 35.6828076854141,
+        "maxHeight": 23.39700112468878,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39576013705236,
+          40.087111691710476
+        ]
+      },
+      "properties": {
+        "anchorId": "s_690231b2a5db041877920ca2",
+        "rotation": 79.90028997467766,
+        "maxWidth": 35.68280768541409,
+        "maxHeight": 20.539836808241024,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39580019611235,
+          40.08764448384274
+        ]
+      },
+      "properties": {
+        "anchorId": "s_690231b2a5db041877920ca3",
+        "rotation": 79.43032150685644,
+        "maxWidth": 33.016120990062866,
+        "maxHeight": 22.73032945085098,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39539935219096,
+          40.09015148758441
+        ]
+      },
+      "properties": {
+        "anchorId": "s_690231b2a5db041877920ca4",
+        "rotation": 150.4303215068564,
+        "maxWidth": 17.2699709794175,
+        "maxHeight": 11.17468710432897,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39381823391386,
+          40.09039528217646
+        ]
+      },
+      "properties": {
+        "anchorId": "s_690231b2a5db041877920ca5",
+        "rotation": 240.43032150685644,
+        "maxWidth": 15.873135091376378,
+        "maxHeight": 14.730269364797323,
+        "align": "near"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38553500685559,
+          40.08717347276303
+        ]
+      },
+      "properties": {
+        "anchorId": "s_690240e739c55164a8bba112",
+        "rotation": 150.4303215068564,
+        "maxWidth": 22.275296348834033,
+        "maxHeight": 13.269940936390652,
+        "align": "near"
+      }
+    }
+  ]
+}
