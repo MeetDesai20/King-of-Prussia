@@ -311,7 +311,7 @@ export default function MallMap() {
                     </div>
                 </aside>
 
-                <div className="kop-map-area">
+                <div className="kop-map-area" style={{cursor:'-webkit-grab'}}>
                     <nav className="kop-floor-switch" aria-label="Floor selector">
                         {FLOOR_ORDER.map((floorKey) => FLOOR_CONFIG[floorKey]).filter(Boolean).map((floor) => (
                             <button
@@ -388,7 +388,12 @@ export default function MallMap() {
                                             />
                                         )}
 
-                                        {(showRouteSelection ? routeEndpointStores : floorStores).map((store) => {
+                                        {(selectedStore
+                                            ? [selectedStore]
+                                            : showRouteSelection
+                                                ? routeEndpointStores
+                                                : floorStores
+                                        ).map((store) => {
                                             const cx = store.coordinates[0] * MAP_WIDTH;
                                             const cy = store.coordinates[1] * MAP_HEIGHT;
                                             const isActive = selectedStore?.id === store.id;

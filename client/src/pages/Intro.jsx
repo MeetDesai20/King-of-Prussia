@@ -45,7 +45,7 @@ export default function Intro() {
                     className="rounded-full bg-white px-8 py-4 text-black font-semibold shadow-lg"
                     onClick={()=>navigate('/home')}
                 >
-                    Explore Now
+                    Enter
                 </motion.button>
 
             </div>

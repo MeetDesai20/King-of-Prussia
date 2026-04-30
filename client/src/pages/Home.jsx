@@ -7,6 +7,7 @@ import DiningSection from "../sections/DiningSection";
 import EntertainmentSection from "../sections/EntertainmentSection";
 import EventsSection from "../sections/EventsSection";
 import CTASection from "../sections/CTASection";
+import VerticalCarousel from "../components/VerticalCarousel";
 
 export default function Home() {
   return (
@@ -16,7 +17,10 @@ export default function Home() {
         description="Retail, luxury, dining, entertainment, and event opportunities at one of the world’s leading destinations."
         image="/preview.jpg"
       />
-      <HeroSection />
+      <section className="relative h-screen w-full overflow-hidden">
+        <VerticalCarousel />
+        <HeroSection />
+      </section>
       <WhySection />
       <RetailSection />
       <LuxurySection />

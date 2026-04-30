@@ -1,13 +1,9 @@
-import LazyVideo from "../components/LazyVideo";
 import { motion } from "framer-motion";
 
 export default function HeroSection() {
   return (
-    <section className="relative h-screen w-full overflow-hidden bg-black">
-
-      <LazyVideo src="/videos/hero.mp4" />
-
-      <div className="absolute inset-0 bg-black/60" />
+    <section className="absolute inset-0 z-20">
+      <div className="absolute inset-0 bg-black/45" />
 
       <div className="relative z-10 flex h-full flex-col items-center justify-center text-center text-white">
         <h1 className="text-5xl md:text-7xl font-bold">
