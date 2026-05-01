@@ -1,70 +1,79 @@
-# Getting Started with Create React App
+# King of Prussia Interactive Sales Deck
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An interactive web experience for exploring retail, luxury, dining, entertainment, events, and map/navigation data for King of Prussia.
 
-## Available Scripts
+## Tech Stack
 
-In the project directory, you can run:
+- Frontend framework: React 19
+- Routing: react-router-dom
+- Styling: Tailwind CSS + custom CSS
+- Animation: framer-motion
+- Mapping: mapbox-gl + react-map-gl
+- State management: zustand
+- Build tooling: Create React App (react-scripts 5)
+- Testing utilities: React Testing Library + Jest DOM
 
-### `npm start`
+## Setup Instructions
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Prerequisites
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Node.js 18+ recommended
+- npm 9+ recommended
 
-### `npm test`
+### Install
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
+npm install
+```
 
-### `npm run build`
+### Run in development
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+npm start
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+App runs at:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+http://localhost:3000
 
-### `npm run eject`
+### Build for production
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+npm run build
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Production output is generated in the `build` directory.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Run tests
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+npm test
+```
 
-## Learn More
+## Project Structure (High Level)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- `src/pages`: route-level screens such as Intro and Home
+- `src/sections`: homepage content sections (retail, luxury, events, etc.)
+- `src/components`: shared UI elements and map-related components
+- `src/assets`: media assets and map data bundles
+- `scripts`: utility scripts for data/build workflows
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Design Decisions
 
-### Code Splitting
+- Hash-based routing was used for simple static hosting compatibility.
+- Heavy routes/components are lazy-loaded to improve initial load performance.
+- Reusable section/component architecture keeps marketing sections modular.
+- IntersectionObserver-based media loading helps defer offscreen images/video.
+- Mixed Tailwind utilities and targeted CSS files balance speed and control.
+- SEO metadata is managed in-app for route-specific titles and social tags.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## AI Tools Used
 
-### Analyzing the Bundle Size
+- Google Stitch: used for ideation and UI/UX direction exploration.
+- ChatGPT: used for code generation support, debugging guidance, and documentation drafting.
+- Cloud tools/services: used for collaboration workflows, asset handling, and deployment support.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Notes
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- If Lighthouse flags console issues, verify route metadata and third-party package warnings first.
+- If deploying to a subpath, configure `homepage` in `package.json` accordingly.
