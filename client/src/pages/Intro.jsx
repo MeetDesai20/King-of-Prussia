@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from "react";
+import React, { useEffect } from "react";
 import { motion } from "framer-motion";
 import introVideo from '../assets/videos/kop-homepage-hero.m4v'
 import LazyVideo from "../components/LazyVideo";
