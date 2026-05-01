@@ -377,6 +377,7 @@ export default function MallMap() {
                                     <svg
                                         className="kop-floor-svg"
                                         viewBox={`0 0 ${MAP_WIDTH} ${MAP_HEIGHT}`}
+                                        preserveAspectRatio="xMidYMid meet"
                                         role="img"
                                         aria-label={`${FLOOR_CONFIG[selectedFloor].name} floor map`}
                                     >

@@ -1,0 +1,174 @@
+
+First Contentful Paint
+First Contentful Paint marks the time at which the first text or image is painted. Learn more about the First Contentful Paint metric
+
+Largest Contentful Paint
+Largest Contentful Paint marks the time at which the largest text or image is painted. Learn more about the Largest Contentful Paint metric
+
+Total Blocking Time
+Sum of all time periods between FCP and Time to Interactive, when task length exceeded 50ms, expressed in milliseconds. Learn more about the Total Blocking Time metric
+
+Cumulative Layout Shift
+Cumulative Layout Shift measures the movement of visible elements within the viewport. Learn more about the Cumulative Layout Shift metric
+
+Speed Index
+Speed Index shows how quickly the contents of a page are visibly populated. Learn more about the Speed Index metric
+
+Use efficient cache lifetimes
+A long cache lifetime can speed up repeat visits to your page. Learn more
+
+Layout shift culprits
+Layout shifts occur when elements move absent any user interaction. Investigate the causes of layout shifts, such as elements being added, removed, or their fonts changing as the page loads
+
+Document request latency
+Your first network request is the most important. Reduce its latency by avoiding redirects, ensuring a fast server response, and enabling text compression
+
+Optimize DOM size
+A large DOM can increase the duration of style calculations and layout reflows, impacting page responsiveness. A large DOM will also increase memory usage. Learn how to avoid an excessive DOM size
+
+Duplicated JavaScript
+Remove large, duplicate JavaScript modules from bundles to reduce unnecessary bytes consumed by network activity
+
+Font display
+Consider setting font-display to swap or optional to ensure text is consistently visible. swap can be further optimized to mitigate layout shifts with font metric overrides
+
+Forced reflow
+A forced reflow occurs when JavaScript queries geometric properties (such as offsetWidth) after styles have been invalidated by a change to the DOM state. This can result in poor performance. Learn more about forced reflows and possible mitigations
+
+Improve image delivery
+Reducing the download time of images can improve the perceived load time of the page and LCP. Learn more about optimizing image size
+
+INP breakdown
+Start investigating with the longest subpart. Delays can be minimized. To reduce processing duration, optimize the main-thread costs, often JS
+
+LCP breakdown
+Each subpart has specific improvement strategies. Ideally, most of the LCP time should be spent on loading the resources, not within delays
+
+LCP request discovery
+Optimize LCP by making the LCP image discoverable from the HTML immediately, and avoiding lazy-loading
+
+Legacy JavaScript
+Polyfills and transforms enable older browsers to use new JavaScript features. However, many aren't necessary for modern browsers. Consider modifying your JavaScript build process to not transpile Baseline features, unless you know you must support older browsers. Learn why most sites can deploy ES6+ code without transpiling
+
+Modern HTTP
+HTTP/2 and HTTP/3 offer many benefits over HTTP/1.1, such as multiplexing. Learn more about using modern HTTP
+
+Network dependency tree
+Avoid chaining critical requests by reducing the length of chains, reducing the download size of resources, or deferring the download of unnecessary resources to improve page load
+
+Render blocking requests
+Requests are blocking the page's initial render, which may delay LCP. Deferring or inlining can move these network requests out of the critical path
+
+3rd parties
+3rd party code can significantly impact load performance. Reduce and defer loading of 3rd party code to prioritize your page's content
+
+Optimize viewport for mobile
+Tap interactions may be delayed by up to 300 ms if the viewport is not optimized for mobile
+
+Time to Interactive
+Time to Interactive is the amount of time it takes for the page to become fully interactive. Learn more about the Time to Interactive metric
+
+Max Potential First Input Delay
+The maximum potential First Input Delay that your users could experience is the duration of the longest task. Learn more about the Maximum Potential First Input Delay metric
+
+First Meaningful Paint
+First Meaningful Paint measures when the primary content of a page is visible. Learn more about the First Meaningful Paint metric
+
+Eliminate render-blocking resources
+Resources are blocking the first paint of your page. Consider delivering critical JS/CSS inline and deferring all non-critical JS/styles. Learn how to eliminate render-blocking resources
+
+Properly size images
+Serve images that are appropriately-sized to save cellular data and improve load time. Learn how to size images
+
+Defer offscreen images
+Consider lazy-loading offscreen and hidden images after all critical resources have finished loading to lower time to interactive. Learn how to defer offscreen images
+
+Minify CSS
+Minifying CSS files can reduce network payload sizes. Learn how to minify CSS
+
+Minify JavaScript
+Minifying JavaScript files can reduce payload sizes and script parse time. Learn how to minify JavaScript
+
+Reduce unused CSS
+Reduce unused rules from stylesheets and defer CSS not used for above-the-fold content to decrease bytes consumed by network activity. Learn how to reduce unused CSS
+
+Reduce unused JavaScript
+Reduce unused JavaScript and defer loading scripts until they are required to decrease bytes consumed by network activity. Learn how to reduce unused JavaScript
+
+Efficiently encode images
+Optimized images load faster and consume less cellular data. Learn how to efficiently encode images
+
+Serve images in next-gen formats
+Image formats like WebP and AVIF often provide better compression than PNG or JPEG, which means faster downloads and less data consumption. Learn more about modern image formats
+
+Enable text compression
+Text-based resources should be served with compression (gzip, deflate or brotli) to minimize total network bytes. Learn more about text compression
+
+Preconnect to required origins
+Consider adding preconnect or dns-prefetch resource hints to establish early connections to important third-party origins. Learn how to preconnect to required origins
+
+Avoid multiple page redirects
+Redirects introduce additional delays before the page can be loaded. Learn how to avoid page redirects
+
+Use video formats for animated content
+Large GIFs are inefficient for delivering animated content. Consider using MPEG4/WebM videos for animations and PNG/WebP for static images instead of GIF to save network bytes. Learn more about efficient video formats
+
+Remove duplicate modules in JavaScript bundles
+Remove large, duplicate JavaScript modules from bundles to reduce unnecessary bytes consumed by network activity.
+
+Avoid serving legacy JavaScript to modern browsers
+Polyfills and transforms enable legacy browsers to use new JavaScript features. However, many aren't necessary for modern browsers. Consider modifying your JavaScript build process to not transpile Baseline features, unless you know you must support legacy browsers. Learn why most sites can deploy ES6+ code without transpiling
+
+Preload Largest Contentful Paint image
+If the LCP element is dynamically added to the page, you should preload the image in order to improve LCP. Learn more about preloading LCP elements
+
+Avoid chaining critical requests
+The Critical Request Chains below show you what resources are loaded with a high priority. Consider reducing the length of chains, reducing the download size of resources, or deferring the download of unnecessary resources to improve page load. Learn how to avoid chaining critical requests
+
+User Timing marks and measures
+Consider instrumenting your app with the User Timing API to measure your app's real-world performance during key user experiences. Learn more about User Timing marks
+
+JavaScript execution time
+Consider reducing the time spent parsing, compiling, and executing JS. You may find delivering smaller JS payloads helps with this. Learn how to reduce Javascript execution time
+
+Minimizes main-thread work
+Consider reducing the time spent parsing, compiling and executing JS. You may find delivering smaller JS payloads helps with this. Learn how to minimize main-thread work
+
+Minimize third-party usage
+Third-party code can significantly impact load performance. Limit the number of redundant third-party providers and try to load third-party code after your page has primarily finished loading. Learn how to minimize third-party impact
+
+Lazy load third-party resources with facades
+Some third-party embeds can be lazy loaded. Consider replacing them with a facade until they are required. Learn how to defer third-parties with a facade
+
+Largest Contentful Paint element
+This is the largest contentful element painted within the viewport. Learn more about the Largest Contentful Paint element
+
+Largest Contentful Paint image was not lazily loaded
+Above-the-fold images that are lazily loaded render later in the page lifecycle, which can delay the largest contentful paint. Learn more about optimal lazy loading
+
+Avoid large layout shifts
+These are the largest layout shifts observed on the page. Each table item represents a single layout shift, and shows the element that shifted the most. Below each item are possible root causes that led to the layout shift. Some of these layout shifts may not be included in the CLS metric value due to windowing. Learn how to improve CLS
+
+Avoid long main-thread tasks
+Lists the longest tasks on the main thread, useful for identifying worst contributors to input delay. Learn how to avoid long main-thread tasks
+
+Avoid non-composited animations
+Animations which are not composited can be janky and increase CLS. Learn how to avoid non-composited animations
+
+Tasks
+Lists the toplevel main thread tasks that executed during page load
+
+Diagnostics
+Collection of useful page vitals
+
+Metrics
+Collects all available metrics
+
+Screenshot Thumbnails
+This is what the load of your site looked like
+
+Final Screenshot
+The last screenshot captured of the pageload
+
+Script Treemap Data
+Used for treemap app
