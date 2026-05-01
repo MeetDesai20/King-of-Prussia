@@ -1,34 +1,22 @@
 import React, { useEffect, useRef } from "react";
 import { motion } from "framer-motion";
 import introVideo from '../assets/videos/kop-homepage-hero.m4v'
+import LazyVideo from "../components/LazyVideo";
 import { useNavigate } from "react-router-dom";
 
 export default function Intro() {
-    const videoRef = useRef(null);
     const navigate = useNavigate()
 
     useEffect(() => {
-        if (videoRef.current) {
-            videoRef.current.play().catch(() => { });
-        }
+        // Reset scroll to top on page mount
+        window.scrollTo({ top: 0 });
     }, []);
 
     return (
         <section className="relative h-screen w-full overflow-hidden bg-black">
 
             {/* Background Video */}
-            <video
-                ref={videoRef}
-                className="absolute inset-0 h-full w-full object-cover pointer-events-none"
-                autoPlay
-                loop
-                muted
-                playsInline
-                preload="none"
-                aria-hidden="true"
-            >
-                <source src={introVideo} type="video/mp4" />
-            </video>
+            <LazyVideo src={introVideo} />
 
             {/* Overlay */}
             <div className="absolute inset-0 bg-black/50" />

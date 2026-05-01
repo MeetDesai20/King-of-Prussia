@@ -1,5 +1,5 @@
-import { useCallback, useMemo, useRef, useState } from "react";
-import { useNavigate } from "react-router-dom";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { useLocation, useNavigate } from "react-router-dom";
 import { AiTwotoneShop } from "react-icons/ai";
 import { TransformComponent, TransformWrapper } from "react-zoom-pan-pinch";
 import directoryData from "../assets/data/mallDirectory.json";
@@ -79,6 +79,7 @@ function dijkstra(startId, endId, adjacency) {
 export default function MallMap() {
 
     const navigate = useNavigate()
+    const location = useLocation();
     const wrapperRef = useRef(null);
     const [selectedFloor, setSelectedFloor] = useState("UL");
     const [selectedTab, setSelectedTab] = useState("Popular");
@@ -211,6 +212,23 @@ export default function MallMap() {
     };
 
     const mapTint = FLOOR_CONFIG[selectedFloor].tint;
+
+    useEffect(() => {
+        // Reset scroll to top on page mount
+        window.scrollTo({ top: 0 });
+    }, []);
+
+    useEffect(() => {
+        const selectedStoreName = location.state?.selectedStoreName;
+        if (!selectedStoreName) return;
+
+        const normalizedTarget = selectedStoreName.trim().toLowerCase();
+        const matchedStore = allListings.find((store) => store.name.trim().toLowerCase() === normalizedTarget);
+
+        if (matchedStore) {
+            focusStore(matchedStore);
+        }
+    }, [allListings, location.state]);
 
     return (
         <div className="kop-map-page">
