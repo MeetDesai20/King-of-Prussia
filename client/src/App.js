@@ -1,7 +1,6 @@
 import './App.css';
 import { Route, Routes } from 'react-router-dom';
 import { useEffect, Suspense, lazy } from 'react';
-import Intro from './pages/Intro';
 
 // Lazy load heavy components to reduce initial bundle
 const Home = lazy(() => import('./pages/Home'));
@@ -32,7 +31,11 @@ function App() {
   return (
     <>
       <Routes>
-        <Route path='/' element={<Intro />} />
+        <Route path='/' element={
+          <Suspense fallback={<RouteLoader />}>
+            <Home />
+          </Suspense>
+        } />
         <Route path='/home' element={
           <Suspense fallback={<RouteLoader />}>
             <Home />

@@ -37,7 +37,8 @@ const plans = [
 
 export default function CTASection() {
   return (
-    <SectionWrapper className="text-center">
+    <SectionWrapper className="bg-[#070708] text-white text-center relative overflow-hidden">
+      <div className="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_top_left,_rgba(210,180,140,0.18),_transparent_32%),radial-gradient(circle_at_bottom_right,_rgba(255,255,255,0.12),_transparent_30%)]" />
       <motion.div
         initial={{ opacity: 0, y: 20 }}
         whileInView={{ opacity: 1, y: 0 }}
@@ -45,11 +46,14 @@ export default function CTASection() {
         transition={{ duration: 0.6 }}
         className="max-w-6xl mx-auto"
       >
-        <h2 className="text-4xl md:text-5xl font-bold mb-4">
+        <p className="text-xs uppercase tracking-[0.4em] text-white/55 mb-4">
+          Closing Slide
+        </p>
+        <h2 className="text-4xl md:text-5xl font-bold mb-4 font-serif">
           Be Part of the Destination
         </h2>
 
-        <p className="mb-12 opacity-80 max-w-2xl mx-auto">
+        <p className="mb-12 text-white/75 max-w-2xl mx-auto leading-7">
           Choose a plan that matches your goals. Each plan is built to support
           a different way of activating the destination.
         </p>
